@@ -10,6 +10,7 @@ class java1{
         sb1 = sb1.append(" Mehta");
         System.out.println(sb1);
         System.out.println(sb1.capacity());
+        System.out.println(sb1.deleteCharAt(2));
 
         String str = sb1.toString();
         System.out.println(str);
