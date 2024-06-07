@@ -1,0 +1,11 @@
+The very first draw back of array is that array is of fixed size and suppose in future you need to
+increase the size of the array you cant do that.
+Like there is a solution that you can create a new array of bigger length but the thing is that it will
+consume lot of time and also space.
+
+Further like if you need to find the element in the array you need to traverse through the array, no doubt 
+we have some algorithms to help us but still the thing is that it take time and also strong foundations.
+
+Array is good and have its own benefits ofcourse but we are talking about drawbacks because there must 
+be something that cover these drawbacks of the array, that are known as collections, we will discuss 
+about them later.
