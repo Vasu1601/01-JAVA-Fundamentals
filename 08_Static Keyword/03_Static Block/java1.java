@@ -51,7 +51,7 @@ class java1{
     3. Now suppose we dont create any object of the class then will static block get called the answer is no, so in that case we can 
        use Class.class property but keep one thing in mind that when we use Class property we need to use exception handeling as well
        , the concet of exception handeling will be discussed later but this whole Class property concept is important because it is 
-       is used in jdbc - 
+       used in jdbc.
 
        public static void main(String[] args) throws classNotFoundException{
         Class.forName("Mobile");
