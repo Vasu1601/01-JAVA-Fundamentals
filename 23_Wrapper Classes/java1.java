@@ -7,6 +7,11 @@ class java1{
 
         int num2 = num1; // AutoUnboxing
         System.out.println(num2);
+
+
+        String str = "12";
+        int num3 = Integer.parseInt(str); //This will help a lot when we need to deal with real life projects
+        System.out.println(num3*2);
     }
 }
 
