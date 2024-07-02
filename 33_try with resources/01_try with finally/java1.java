@@ -23,6 +23,7 @@ class java1{
     }
 }
 
+
 /*
 ================================================Notes=================================================================================
 -- try statement can be used along with the finally clause to ensure that a resource is properly closed or released, 
