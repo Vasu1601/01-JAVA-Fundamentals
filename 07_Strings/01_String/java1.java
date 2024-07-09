@@ -31,5 +31,8 @@ class java1{
     
     2. As String is a class there are many methods that you can use with string and it also support
        methods that are used by arrays
+
+    3. In case of strings we use strings.length() which is actually a function that's why we need to
+       put the () in case of strings unlike array where length is variable hence we use arr.length
 ====================================================================================================
 */
