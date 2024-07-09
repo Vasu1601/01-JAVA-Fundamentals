@@ -21,4 +21,6 @@ class java1{
      are going to get an exception(This is just an runtime error).
   4. Now suppose we dont know the length of the array so to tackle this array has some inbuilt properties
      that can help , the very first is array_name.length.
+  5. int[] arr is happening at compile time that is datatype is assigned to reference variable at compile time.
+  6. new int[] this is where the object gets created in the heap memory and this is what we called dynamic memory allocation
 */
